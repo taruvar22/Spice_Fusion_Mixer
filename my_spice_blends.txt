@@ -1,0 +1,8 @@
+
+newone: Black Pepper, Paprika, Cloves, Cardamom, Ginger, Garam Masala, Furikake, Kokum, Baharat, Garam Masala, Mahlab
+Sweetness: 34.5%
+Sourness: 20.0%
+Saltiness: 5.0%
+Spiciness: 30.0%
+Bitterness: 18.6%
+Umami: 15.0%
